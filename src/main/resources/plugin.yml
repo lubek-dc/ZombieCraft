@@ -1,0 +1,4 @@
+name: ZombieCraft
+version: ${project.version}
+main: me.lubek.zombiecraft.ZombieCraft
+api-version: 1.16
